@@ -59,10 +59,9 @@ https://thesecmaster.com/step-by-step-guide-to-install-conda-on-ubuntu-linux/
 
 - Installing Opencv-Python on the RB5. 
 
-3. Download Whisper_Base_En tflite model from Qualcomm AI Hub website. Use the below link to download.
-https://aihub.qualcomm.com/models/whisper_base_en
+3. Refer this link to get the whisper-base tflite_model https://github.com/usefulsensors/openai-whisper/blob/main/notebooks/whisper_base_tflite_model.ipynb. Execute the cell and download the whisper-base.tflite model.s
 
-4. Place the downloaded model in model dir, and update "tflite_model_path" variable in inference.py and inference_mic.py. 
+4. Place the downloaded model in model dir.
 
 5. Whisper-Base-En Tflite model inference with Recorded Audio file (audio.wav) as input on RB5. 
 ```sh

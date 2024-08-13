@@ -1,1 +1,1 @@
-Place Whisper tflite model here downloaded from : https://aihub.qualcomm.com/models/whisper_base_en
+Refer this link to get the whisper_base_tflite_model https://github.com/usefulsensors/openai-whisper/blob/main/notebooks/whisper_base_tflite_model.ipynb. Execute the cell and download the whisper-base.tflite model.
